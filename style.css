@@ -92,7 +92,7 @@ body {
   }
 
   .billy {
-    height: 200px;
+    height: 250px;
     width: 150px;
     justify-content: flex-start;
   }
@@ -124,9 +124,7 @@ body {
     margin-left: -1.5rem;
     margin-right: -1.5rem;
   }
-  .justify-center {
-    justify-content: center;
-  }
+
 
   .card-column {
     flex: 1 0 100%;
