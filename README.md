@@ -14,4 +14,6 @@ My header includes a photo of myself and a sub header "The name is Hutchinson, B
 
 The link in projects takes you directly to my github.
 
+I have also made an effort to make commits every time a change to the css or index is made so i can show my work clearly
+
 MIT license was used for this project
