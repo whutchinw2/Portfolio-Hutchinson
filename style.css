@@ -86,6 +86,23 @@ body {
     margin: 2rem auto;
   }
 
+  .avatar {
+    height: 300px;
+    width: 300px;
+  }
+
+  .billy {
+    height: 150px;
+    width: 120px;
+    justify-content: flex-start;
+  }
+
+  .project1 {
+    background-image: url("https://media.istockphoto.com/id/1302189748/photo/digital-cyberspace-with-particles-and-digital-data-network-connections-high-speed-connection.jpg?b=1&s=612x612&w=0&k=20&c=bwDXyw4wOGrBQOQ2Z15DUApR8H2MNogIaIIZp9jnuoQ=");
+    height: 150px;
+    width: 100%;
+    color: #ffff;
+  }
   footer {
     margin: 1.5rem;
     text-align: center;
